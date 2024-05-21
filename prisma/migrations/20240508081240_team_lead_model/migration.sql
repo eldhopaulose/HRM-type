@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "TeamLeadUser" ALTER COLUMN "joiningDate" SET DATA TYPE TEXT,
+ALTER COLUMN "dob" SET DATA TYPE TEXT;
